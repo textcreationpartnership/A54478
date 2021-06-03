@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Personall treaty with His Maiesty and the two honourable Houses to be speedily holden, who knowes where? At no place. Or, when? Can ye tell? 32 July.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54478</idno><idno type="EEBO-CITATION">13286684</idno>
+  <idno type="VID">98814</idno>
+  <idno type="EEBO-PROQUEST">2248525592</idno>
+  
+            <idno type="STC">Wing P1667</idno>
+            <idno type="STC">ESTC R33386</idno>
+            <idno type="OCLC">13286684</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Personall treaty with His Maiesty and the two honourable Houses to be speedily holden, who knowes where? At no place. Or, when? Can ye tell? 32 July.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98814:1"/>
+            <pb facs="tcp:98814:1"/>
+            <p>A PERSONALL TREATY VVITH HIS MAIESTY, and the two Honourable Houses, to be speedily holden, Who knowes where?</p>
+            <p>At no place.</p>
+            <p>OR, VVhen? Can ye tell? 31. <hi>July.</hi>
+            </p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:98814:2"/>
+            <pb n="3" facs="tcp:98814:2"/>
+            <head>A Personall Treaty with his Majesty, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hese are to certifie all and every man or Woman, City or Countrey, whom it doth or may concerne) that there is speedily to be (or never like to be) a personall Treaty with his Majesty, u<g ref="char:EOLhyphen"/>pon these conditions following.</p>
+            <p>First, if his Majesty will be most un<g ref="char:EOLhyphen"/>graciously pleased to be perjured, in breaking all the Oaths, and Protestations which he tooke at his Coronation, and that as he hath sworne to defend and maintaine the true Protestant Religion which he found was (and is) established here in his Kingdome of <hi>England,</hi> and hath flourished gloriously these 90. yeares since the happy re<g ref="char:EOLhyphen"/>stauration of it, and it is well knowne that it hath beene gra<g ref="char:EOLhyphen"/>ciously Crown'd with blessings from Heaven, and honoured with venerable regard and reverence through all Nations: now if the King will but grant to signe, or set his hand (against his owne soule) to extirpate and utterly destroy this ancient Prote<g ref="char:EOLhyphen"/>stant Church, and established Doctrine and Discipline, and withall to allow all other Sects and Heresies to be in free use and practise in all his Majestyes Dominions; then perhaps (with a grant or two more) we may be promised once againe to have a Personall Treaty.</p>
+            <p>Secondly if the King will be madly pleased to sweare never to be trusted with the Militia, Forts, Navy, Ports, or with his owne Wife, or education or mariage of his owne Children, or that he never shall presume to entertaine any Servant, or bestow place or honour upon any man without leave of his Ma<g ref="char:EOLhyphen"/>sters, or privy Counsellors, or Officers, as Sheriffs and Lievte<g ref="char:EOLhyphen"/>nants of Shires, or shipping businesses, or any other businesses or matters of validity; if his Majesty will doe so much as to signe, consent, and set his hand to these small trifling toyes, he
+<pb n="4" facs="tcp:98814:3"/> shall be Reinthroned in pompe, and esteemed as the most glori<g ref="char:EOLhyphen"/>ous shaddow of Majesty that ever was gullified, and the onely obedient Journeyman King, that was ever crowned since the worlds Creation.</p>
+            <p>Thirdly, if his Majesty will be pleased to remember to for<g ref="char:EOLhyphen"/>get himselfe, so much as to sweare, sign, and seale to an act of everlasting oblivion, that all the unspeakable injuries which this blessed Parliament hath done to his Majesties Person, the Queene, the Prince, Duke of Yorke, &amp;c and all the intollera<g ref="char:EOLhyphen"/>ble wrongs and oppressions, which the Peeres, Gentry, and people have grievously suffered under may never be thought u<g ref="char:EOLhyphen"/>pon, that the expence of 100 millions of Treasure may never be accounted for; that Bishopricks and Church Lands, with all other sequestrations, imbezellings, offices, and place of pro<g ref="char:EOLhyphen"/>fits, now being in the possession of any Parliament man, or Soldier, who hath couragiously withstood, opposed, and fought against the King; that all such profits and priviledges may still be assured to remaine to the now possessors hands, and their Heirs for ever; and that it shall be no lesse then Parliament high Treason, for the King or any of his true Subjects ever to seeke, request or desire satisfaction, or looke to have their owne againe; and further that his Majesty is required to declare the Parliament and Army to be guiltlesse and innocent of all the blood which hath been shed in these unnaturall wars, and like<g ref="char:EOLhyphen"/>wise that his Majesty shall be pleased to justifie all their actions and outragious mischiefes, which hath beene done and commit<g ref="char:EOLhyphen"/>ted against himselfe, his Crowne, Kingdomes and people and withall it is to be desired that the King would be so kinde as to lay all the guilt of his owne, and his Subjects miseries and op<g ref="char:EOLhyphen"/>pressions upon himselfe, and his Loyall servants: If these things may be granted, wee may looke for a Personall Treaty, and then his Majesty may be Reinstated to command no body, and possesse as much as comes to nothing.</p>
+            <p>These are the briefe summes, piths, marrowbones and mar<g ref="char:EOLhyphen"/>rowes of the three Propositions, which his Majesty is desired to assent unto before a Personall Treaty can be granted.</p>
+            <p>Upon these or the like triviall and petty Propositions, wee
+<pb n="5" facs="tcp:98814:3"/> are as far from having a Treaty as ever wee were. The Parlia<g ref="char:EOLhyphen"/>ment laies the fault in the army, the army taxes the Parliament, and both parties throw the blame upon the King: and verily, in truth and indeed in his Majesty is so stiffe and obstinate, that neither the afflictions that he hath suffered unjustly by Traitors, or the hazard of any practises and damnable attempts against his sacred person or precious life, no nor the regaining of his Royall estate and Monarchicall Crownes and dignities, the en<g ref="char:EOLhyphen"/>joiments of his deere and most vertuous consort, (the Queene) his hopefull progeny, or any, or all things under heaven, be they either Earths glories, or calamities, can neither lift his unmove<g ref="char:EOLhyphen"/>able minde higher, or deject him lower, or move him from his true Christian principles and resolutions. Therefore the Parlia<g ref="char:EOLhyphen"/>ment do know that their Propositions to his Majesty are but vaine and frivolous, to no other purpose but to delay time, to uphold their tottering tyrannicall power and greatnesse, and to delude the people, with a hope of a personall Treaty, when (God knowes that they know) they never meant or intend a<g ref="char:EOLhyphen"/>ny such matter.</p>
+            <p>And now the holy Army (being big with the last Bastard, and monster of Rebellion) with a greedy desire of longing for Colchester Oysters, their inexcusable saint-ships have laine be<g ref="char:EOLhyphen"/>fore it neere 2 months, yet cannot agree about the price: the very cheapning and offerings, with biddings and refusings, hath cost so much on both sides, that they will never be drawne to a bargaine with a good will: for what the Army have a greedy minde to have, the men of Colchester have an extreame desire to hold; and because both parties cannot agree, like as the Dog that was hangd in the Crab-tree could never abide verjuice af<g ref="char:EOLhyphen"/>ter, so the blessed Martiallists, or (as they are stiled) the Princes of our Nation, have no stomacke or appetite to the Oysters, but with raging madnesse and wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vish voracity they are determi<g ref="char:EOLhyphen"/>ned to devour and swallow the whole Towne it selfe, with all thats in it.</p>
+            <p>And to let the Reader understand, by what title or interest of inheritance these <hi>Fairfaxian</hi> soldiers are to be esteemed and honoured as Princes, and the least or meanest of them hath as
+<pb n="6" facs="tcp:98814:4"/> great a share in the Principality as the Lo. Generall, Col. <hi>Whaley,</hi> or any of the greatest Commanders amongst them. Their pe<g ref="char:EOLhyphen"/>digrees and rights were declared on Sunday last, the 23. of this instant July; in the Savoy Church and Pulpit, one M. <hi>Lee</hi> did proclaime them all (or preach them every mothers childe) to be Princes in this maner.</p>
+            <p>Beloved, I will not trouble your eares with ambiguous and intricate tearmes of Heraldry; I need not search much for Ge<g ref="char:EOLhyphen"/>nealogies concerning the dignity of those who are so much ho<g ref="char:EOLhyphen"/>noured, as to be the soldiers and champions of Heaven, and to fight the Lords battels against the wicked. You know (deare Brethren) who it is that only is, and only must and will be the King of Kings: this King of Kings, you know is God Almigh<g ref="char:EOLhyphen"/>ty, and we know also, that all the faithfull are the Sons of God, and in that point, they (being sons to the King of Kings) are all Princes. This was the effect of M. <hi>Lees</hi> proofs for Princes.</p>
+            <p>Now it is to be considered, that if these Princes were the sons of God they would never put any trust or confidence in the Di<g ref="char:EOLhyphen"/>vell, or in any Soothsayers, divinations of Witches, Wizzards, or Figure-flingers, as they have done lately, when they sent for <hi>Lilly</hi> and <hi>Booker</hi> from London into Essex, to erect a Figure, and by their Astrologicall judgements, to direct and foretell whe<g ref="char:EOLhyphen"/>ther it would be fortunate to the Army to attempt to storm the Towne of Colchester. The Wizzards bad them, Goe on and prosper; and they went on, but above 1000 never came off a<g ref="char:EOLhyphen"/>gain: so that the cunning men sneakt away for shame and safe<g ref="char:EOLhyphen"/>ty; in whose praise these following verses were dutifully pend.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <lg>
+                           <l>NOW <hi>Booker</hi> what's become of all thy fictions?</l>
+                           <l>And <hi>Lilly</hi> where't th'effect of thy predictions?</l>
+                           <l>Tattling Prognosticks, configurating sceames</l>
+                           <l>Which Fooles believe, and wise men h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ld as dreames:</l>
+                           <l>You are not so familiar with the starres</l>
+                           <l>To know from them th' events of Peace or warres:</l>
+                           <l>Though your braines travaile through the <hi>Zodiack,</hi>
+                           </l>
+                           <l>And from the twelve signes steale an Almanack,</l>
+                           <l>Whereas you talk'd with <hi>Saturne</hi> at the <hi>Ram,</hi>
+                           </l>
+                           <pb n="7" facs="tcp:98814:4"/>
+                           <l>And he told you strange newes from <hi>Amsterdam,</hi>
+                           </l>
+                           <l>Great <hi>Jupiter</hi> in <hi>Taurus,</hi> and the <hi>Twinnes</hi>
+                           </l>
+                           <l>Told you which side is loser, which side winnes</l>
+                           <l>
+                              <hi>Mars</hi> at the <hi>Crab,</hi> and <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>on</hi> told you plaine</l>
+                           <l>How long King <hi>Charles</hi> should suffer, and Knaves Raigne:</l>
+                           <l>In <hi>Virgo,</hi> and in <hi>Libra,</hi> you met <hi>Sol,</hi>
+                           </l>
+                           <l>And thence you brought rare newes of <hi>Tom</hi> and <hi>Noll:</hi>
+                           </l>
+                           <l>
+                              <hi>Venus,</hi> in <hi>Scorpio,</hi> and in <hi>Sagitarie</hi>
+                           </l>
+                           <l>Inform'd you who the victory should carry:</l>
+                           <l>And <hi>Mer'cry</hi> (having beene in <hi>Capricorne)</hi>
+                           </l>
+                           <l>With nimble legges was to <hi>Aquarius</hi> borne,</l>
+                           <l>He told you more then all you could devise,</l>
+                           <l>From <hi>Mercury</hi> comes all our weekly lyes:</l>
+                           <l>In <hi>Pisces</hi> you found <hi>Luna,</hi> and shee gave ye</l>
+                           <l>Her Wavering Portents of Englands Navy;</l>
+                           <l>Thus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n the circles of the Round-head <hi>Spheares</hi>
+                           </l>
+                           <l>You saw the <hi>Major</hi> and the <hi>Minor Beares:</hi>
+                           </l>
+                           <l>The <hi>Sunnes</hi> Illustrious Annuall course <hi>Diurnall,</hi>
+                           </l>
+                           <l>And <hi>
+                                 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>intha</hi>'s eight and twenty dayes <hi>Nocturnall:</hi>
+                           </l>
+                           <l>
+                              <hi>Caput Draconis,</hi> and the <hi>Dragons Rumpe,—Taile</hi>
+                           </l>
+                           <l>Cornuted <hi>Vulcan</hi> with his limping stumpe:</l>
+                           <l>To know Twelve signes, are foure Triplicities</l>
+                           <l>Hath made you famous with felicities:</l>
+                           <l>You (by the Plannets motions) found out plaine</l>
+                           <l>That many Knaves should ride in <hi>Charles</hi> his wayne,</l>
+                           <l>And that the Guerdon of their just deserts</l>
+                           <l>Will mount them up hill in <hi>Gregorian</hi> Carts;</l>
+                           <l>These things you kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>w and many more then these</l>
+                           <l>By squeezing of your Ephemerides:</l>
+                           <l>Y'ave read <hi>Mirandula,</hi> and <hi>Guy Bonatus,</hi>
+                           </l>
+                           <l>You know when to deject, or elevate us,</l>
+                           <l>By <hi>Regimontanus</hi> Rules and learn'd <hi>Pontanus,</hi>
+                           </l>
+                           <l>You know when Fate will either cure or bane us,</l>
+                           <l>And by instructions from brave <hi>Claudius Dariot</hi>
+                           </l>
+                           <l>Y'ave as much skill as <hi>Grays-Inne</hi> eating <hi>Mariot.</hi>
+                           </l>
+                           <l>I dare not call y'Impostures, for you know</l>
+                           <l>When as mens Beards and Nailes too long do gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>w,</l>
+                           <pb n="8" facs="tcp:98814:5"/>
+                           <l>You know the times (your judgement never failes)</l>
+                           <l>When 'tis best cutting Cornes, or Beards, or Nayles,</l>
+                           <l>Your judgements are beyond all mens opinions,</l>
+                           <l>For seasons to set Garlick, Leekes, or Onions.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus the pious Princely Saints in seeking to you, have appro<g ref="char:EOLhyphen"/>ved themselves to be both blinde and dumbe; for the Prophet <hi>Ezekiell</hi> 12. 2. saith, that <hi>Rebells have neither Eyes nor Eares;</hi> or else they would never have forsaken the cleare, resplendent head of light, truth, and knowledge, to groape after the tayle of false Prophets, Esai. 9. 14. 15. there the lying Prophet is truely called the tayle.</p>
+            <p>These famous Astronomicall Star-gazers might perceive (without the use of a <hi>Jacobs</hi> staffe) that the <hi>Star</hi> of <hi>Jacob,</hi> (Numb. 24. 17.) was not their guide, nor yet that <hi>Star</hi> which guided the wise men from the East, was any director of this brace of sophisticated Sophies, (or <hi>Magies)</hi> to shew them the way from <hi>London</hi> Eastward towards <hi>Colchester;</hi> no it may be conjectured that some <hi>Ignis fatuis,</hi> or a <hi>firedrake,</hi> some <hi>William with a wispe,</hi> or some Gloworme illumination did inlighten, and guide them and their fancies towards the East; but they were glad to steale back againe into the West, without the help of so much as the snuffe of a farthing candle.</p>
+            <p>As concerning the great B showes of the perpetuall grand Counsell; alas their hands are full (and their heads too) charity begins at home, and their owne safeties is enough for them to looke after: They sit close e<g ref="char:EOLhyphen"/>very day hammering new projects, designes, and plots, for the keeping of the King from his Rights, and the people f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ō their peace and happines; the truth is, there were never any men more unwilling to see their King, or to feele the pulse and vigour of the Law; but as an Eele being cut in pieces alive, and every piece will stir and wriggle on the gridiron a broy<g ref="char:EOLhyphen"/>ling, so (though these men are in sundry parts divided into Factions and fractions) yet they will struggle to the last cast; for common reason tells us, that a Rebell hath no more minde to be hanged, then he hath to have a Personall Treaty with hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majesty; both which good God (in thy mer<g ref="char:EOLhyphen"/>cy and justice) be graciously pleased to grant.</p>
+            <p>For news, I know no certainty, but it is reported that the footpost of Putney is dead, and one of the Chuch wardens of Knightsbridge is de<g ref="char:EOLhyphen"/>ceased, and also that Mr. <hi>Byfeilds</hi> Mare at <hi>Fulham</hi> hath lately changed her lift; those three places are voyd, either for man or beast, the supply whereof is fit for the consideration of a Close Committee.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98814:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
